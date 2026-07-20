@@ -49,5 +49,4 @@ Preparing for GATE 2027 • Building Real-World AI Projects • Learning Multi-A
   <img src="https://github-readme-stats.vercel.app/api?username=Ganeshkondekar&show_icons=true&theme=github_dark&cache_seconds=1800" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshkondekar&layout=compact&theme=github_dark&cache_seconds=1800" width="49%" />
 </p>
-</p>
 </div>
