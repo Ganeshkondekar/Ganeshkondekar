@@ -46,9 +46,6 @@ Preparing for GATE 2027 • Building Real-World AI Projects • Learning Multi-A
 
 <<h3><code>ganesh@github ~ $ ./stats.sh</code></h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshkondekar&theme=tokyonight&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganeshkondekar&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Ganeshkondekar&theme=tokyonight&hide_border=true" /> <br><br> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ganeshkondekar&show_icons=true&theme=tokyonight&hide_border=true" />
+ </p>
 </div>
