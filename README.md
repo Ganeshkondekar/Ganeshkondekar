@@ -43,10 +43,12 @@ Python • C++ • SQL • Git • GitHub • Streamlit • LLMs • OpenRouter 
 <h3><code>ganesh@github ~ $ ./goals.sh</code></h3>
 
 Preparing for GATE 2027 • Building Real-World AI Projects • Learning Multi-Agent AI Systems
-<h3><code>ganesh@github ~ $ ./stats.sh</code></h3>
+
+<<h3><code>ganesh@github ~ $ ./stats.sh</code></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganeshkondekar&show_icons=true&theme=github_dark&cache_seconds=1800" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshkondekar&layout=compact&theme=github_dark&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshkondekar&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganeshkondekar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 </div>
