@@ -1,4 +1,9 @@
 <div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ganesh+Kondekar;AI+%26+Python+Developer;Building+Real-World+AI+Projects;Learning+LLMs+and+Multi-Agent+Systems;Welcome+to+my+GitHub!" />
+</p>
+
+<br>
 
 <!-- Animated Contribution Graph -->
 
