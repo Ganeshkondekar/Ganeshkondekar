@@ -1,22 +1,22 @@
 {
   "username": "Ganeshkondekar",
-  "generated_at": "2026-07-24T12:00:15Z",
+  "generated_at": "2026-07-25T10:54:16Z",
   "range": {
     "start": "2025-07-20",
+    "end": "2026-07-25"
+  },
+  "total_contributions": 42,
+  "active_days": 8,
+  "avg_per_active_day": 5.2,
+  "current_streak": {
+    "length": 5,
+    "start": "2026-07-20",
     "end": "2026-07-24"
   },
-  "total_contributions": 41,
-  "active_days": 7,
-  "avg_per_active_day": 5.9,
-  "current_streak": {
-    "length": 4,
-    "start": "2026-07-20",
-    "end": "2026-07-23"
-  },
   "longest_streak": {
-    "length": 4,
+    "length": 5,
     "start": "2026-07-20",
-    "end": "2026-07-23"
+    "end": "2026-07-24"
   },
   "best_day": {
     "date": "2026-07-20",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-07",
-      "total": 41
+      "total": 42
     }
   ],
   "days": [
@@ -1555,6 +1555,10 @@
     },
     {
       "date": "2026-07-24",
+      "count": 1
+    },
+    {
+      "date": "2026-07-25",
       "count": 0
     }
   ]
